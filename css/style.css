@@ -51,7 +51,7 @@ nav{
 
 .wrap{
   background-color: #2E3A46;
-  height: 300px;
+  height: auto;
   width: 200px;
   margin: 20px;
   padding: 10px;
