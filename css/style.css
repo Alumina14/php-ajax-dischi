@@ -1,0 +1,58 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+body{
+  background-color: #1E2D3B;
+}
+
+#wrapper{
+  margin: 0 200px;
+}
+
+nav{
+  background-color: #2E3A46;
+  height: 80px;
+  width: 100%;
+  padding: 0 200px;
+}
+
+#logo{
+  height: 78px;
+  width: auto;
+}
+
+.outputCanzoni{
+  margin-top: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+  flex-wrap: wrap;
+}
+
+.dettagliCanzone h3, .dettagliCanzone h4{
+  color: white;
+  text-align: center;
+  padding: 8px 0;
+}
+
+.poster{
+  display: flex;
+  justify-content: center;
+}
+
+.poster img{
+  height: 180px;
+  width: auto;
+}
+
+.wrap{
+  background-color: #2E3A46;
+  height: 300px;
+  width: 200px;
+  margin: 20px;
+  padding: 10px;
+}
